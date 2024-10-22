@@ -1,2 +1,2 @@
-New Changings are available.
+New Changings are available.<br>
 Author: ibrahiminnovator
